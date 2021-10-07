@@ -1,0 +1,88 @@
+*
+body{
+    background-color:#222222;
+    margin: 0px auto;
+    l
+}
+.container {
+    background-color: chartreuse;
+    width: 1015px;
+    height: 125px;
+    margin: 0px auto;
+    border: 1px solid black;
+    background-image: url(images/banner.jpg);
+    background-size: 80%contain;
+    color: seashell;
+}
+nav {
+
+    background: linear-gradient(to bottom,#acdd11 , #91B70E);
+    margin: -17px auto;
+    border: 0px solid rgb(14, 201, 29);
+    height: 10px auto;
+    padding-left: 130px;
+    text-decoration: none;
+    
+}
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: white;
+   
+    height: 30px ;
+}
+h1 {
+    margin: 40px auto;
+   margin-left : 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 35px;
+}
+main {
+    background-color:#EEEEEE;
+}
+article
+{
+    background-color: white;
+    width: 1015px;
+    margin: 0px auto;
+    border: 1px solid rosybrown;
+}
+hr
+{color: yellowgreen;
+width: 90% ;}
+h2{
+    color:#666C6E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 25px;
+    
+}
+footer
+{
+    background: linear-gradient(to bottom,#acdd11 , #91B70E);
+    text-align: right;
+    width: 1015px;
+    height: 25px;
+    margin: 0px auto;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a
+{
+    color: #91B70E
+}
+a:hover { color: red;
+}
+a:visited
+{color:turquoise}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 25px;
+    font-size: 12px;
+}
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 12px;
+}
